@@ -1,0 +1,1 @@
+# Yazılım Gereksinimi ve Analizi || Yazılım Tasarımı ve Mimarisi
